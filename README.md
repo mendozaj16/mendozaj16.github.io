@@ -70,6 +70,6 @@
         <tr><td>Site Author</td><td>Scientific American Editors</td></tr>
         <tr><td>Abstract</td><td>This article from Scientific American explores cutting-edge projects NASA is pursuing, such as quantum communication, radiation shielding, and AI integration for autonomous missions. Bringing up the big question of how these technologies are critical for future crewed missions to Mars and deep space. Who knows what we might see? The article also discusses the long-term goals that NASA has, like outposts on the moon. It helps readers understand how experimental work shapes the next generation of space exploration.</td></tr>
     </table>’
-<a href="http://netid.github.io/prioject.html.</a>
+<a href="http://mendozaj16/prioject.html.</a>
 </body>
 </html>
